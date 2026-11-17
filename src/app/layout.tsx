@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Morrow — AI 어시스턴트",
-  description: "무엇이든 편하게 물어보세요. Morrow가 함께 생각해 드릴게요.",
+  title: "모두의 AI",
+  description: "준비한 문서를 바탕으로 답하는 RAG 챗봇입니다.",
 };
 
 export default function RootLayout({
